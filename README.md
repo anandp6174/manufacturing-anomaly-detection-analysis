@@ -4,7 +4,7 @@
 
 This project focuses on analyzing manufacturing process and machine operational data to identify inefficiencies, operational gaps, abnormal patterns, and machine failure conditions. The analysis was performed using Python, SQL, and Power BI to support data-driven decision-making and improve manufacturing reliability.
 
-The project combines statistical analysis, anomaly detection, operational monitoring, and business intelligence techniques to evaluate machine performance and optimize manufacturing processes.
+The project combines statistical analysis, anomaly detection, operational monitoring, and business intelligence techniques to evaluate machine performance and optimize manufacturing processes. Additionally, AI-assisted techniques were used during the Power BI dashboard development process to enhance dashboard design, visualization structure, KPI presentation, and overall reporting efficiency.
 
 ---
 
@@ -17,6 +17,7 @@ The project combines statistical analysis, anomaly detection, operational monito
 - Evaluate defect and failure trends using SQL
 - Generate business insights for process optimization
 - Develop interactive Power BI dashboards for operational monitoring
+- Utilize AI-assisted dashboard development techniques for improved visualization and reporting
 
 ---
 
@@ -30,15 +31,16 @@ The project combines statistical analysis, anomaly detection, operational monito
 - SQL
 - Power BI
 - Jupyter Notebook
+- AI-Assisted Dashboard Design
 
 ---
 
 # Dataset Information
 
-Dataset Used:
+### Dataset Used
 AI4I 2020 Predictive Maintenance Dataset
 
-Dataset Source:
+### Dataset Source
 https://www.kaggle.com/datasets/stephanmatzka/predictive-maintenance-dataset-ai4i-2020
 
 ---
@@ -60,7 +62,7 @@ SQL-Based Operational Analysis
        ↓
 Business Insights Generation
        ↓
-Power BI Dashboard Development
+AI-Assisted Power BI Dashboard Development
 ```
 
 ---
@@ -123,6 +125,8 @@ Power BI Dashboard Development
 - Failure trend visualization
 - Interactive operational filtering
 - Reliability monitoring visuals
+- AI-assisted dashboard design and visualization enhancement
+- Automated and optimized reporting layout
 
 ---
 
@@ -130,8 +134,10 @@ Power BI Dashboard Development
 
 The project successfully identified operational inefficiencies, abnormal patterns, and failure-prone conditions affecting manufacturing reliability. The analysis demonstrates how data analytics techniques can support predictive maintenance and improve process performance in manufacturing environments.
 
+The AI-assisted Power BI dashboard development further improved visualization quality, reporting efficiency, and operational insight delivery for business decision-making.
+
 ---
 
 # Author
 
-Anand Pandey
+**Anand Pandey**
